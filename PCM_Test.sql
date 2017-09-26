@@ -1,6 +1,6 @@
 Use tmw_live
 Go
-
+--SQL Code by ArReko Gibbs|Project: PCMiler 
 -- Declare varible to use
 Declare @serverID smallint
 Declare @tripID integer
