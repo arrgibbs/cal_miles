@@ -1,4 +1,5 @@
 --sp_configure 'clr_enable', 1
+--SQL Code by ArReko Gibbs|Project: PCMiler 
 --GO
 --RECONFIGURE
 --GO
