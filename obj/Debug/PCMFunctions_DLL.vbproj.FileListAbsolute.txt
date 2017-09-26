@@ -1,4 +1,0 @@
-c:\users\ag1001\documents\visual studio 2010\Projects\PCMFunctions_DLL\PCMFunctions_DLL\bin\Debug\PCMDLLINT.dll
-c:\users\ag1001\documents\visual studio 2010\Projects\PCMFunctions_DLL\PCMFunctions_DLL\bin\Debug\PCMDLLINT.pdb
-c:\users\ag1001\documents\visual studio 2010\Projects\PCMFunctions_DLL\PCMFunctions_DLL\obj\Debug\PCMDLLINT.dll
-c:\users\ag1001\documents\visual studio 2010\Projects\PCMFunctions_DLL\PCMFunctions_DLL\obj\Debug\PCMDLLINT.pdb
